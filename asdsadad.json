@@ -1,0 +1,149 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "jn4QvevrVEtUk-0tePqcffd1yn0",
+  "nextPageToken": "CAMQAA",
+  "pageInfo": {
+    "totalResults": 214,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "Ql-zDDHhX6YmaLtOukHu5NdkL2A",
+      "id": "PLPanbgyToztZA6kgADtbTIR4-G-EXDeih",
+      "snippet": {
+        "publishedAt": "2023-07-09T05:47:23Z",
+        "channelId": "UCxxnxya_32jcKj4yN1_kD7A",
+        "title": "Mushoku Tensei: Jobless Reincarnation Season 2 [Takarir Indonesia]",
+        "description": "\"Aku akan lebih serius di dunia lain ini!\"\nSebuah kisah seorang lelaki perjaka berumur 34 tahun dan pengangguran. Saat diusir dari rumahnya pada hari pemakaman orang tuanya, dia ditabrak truk dan tewas. Ketika membuka mata, tanpa diduga, dia terlahir kembali sebagai bayi di dunia lain yang penuh dengan ilmu pedang dan sihir!\nLelaki yang sebelumnya hidup bagaikan sampah kini bersumpah menjalani hidup dengan serius sebagai Rudeus di dunia lain! Yang menunggu Rudeus di sana adalah penyihir mungil, gadis cantik bertelinga elf, nona muda tsundere yang ganas, dan bermacam-macam orang lainnya. Di sana dia akan menjalani petualangan dan pertempuran yang keras. Kehidupan baru telah dimulai! Sebuah cerita tentang memperbaiki hidup di dunia fantasi!\n\nLalu, perjalanan Rudeus akan berlanjut pada musim kedua!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ohqL8xDalb0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ohqL8xDalb0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ohqL8xDalb0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ohqL8xDalb0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ohqL8xDalb0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Muse Indonesia",
+        "localized": {
+          "title": "Mushoku Tensei: Jobless Reincarnation Season 2 [Takarir Indonesia]",
+          "description": "\"Aku akan lebih serius di dunia lain ini!\"\nSebuah kisah seorang lelaki perjaka berumur 34 tahun dan pengangguran. Saat diusir dari rumahnya pada hari pemakaman orang tuanya, dia ditabrak truk dan tewas. Ketika membuka mata, tanpa diduga, dia terlahir kembali sebagai bayi di dunia lain yang penuh dengan ilmu pedang dan sihir!\nLelaki yang sebelumnya hidup bagaikan sampah kini bersumpah menjalani hidup dengan serius sebagai Rudeus di dunia lain! Yang menunggu Rudeus di sana adalah penyihir mungil, gadis cantik bertelinga elf, nona muda tsundere yang ganas, dan bermacam-macam orang lainnya. Di sana dia akan menjalani petualangan dan pertempuran yang keras. Kehidupan baru telah dimulai! Sebuah cerita tentang memperbaiki hidup di dunia fantasi!\n\nLalu, perjalanan Rudeus akan berlanjut pada musim kedua!"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 4
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "80FEWIcFGvM4dbvaQtkFJHP3_QQ",
+      "id": "PLPanbgyToztaN0bvGx3mBCV2Nm2ok7YNw",
+      "snippet": {
+        "publishedAt": "2023-06-26T12:04:59Z",
+        "channelId": "UCxxnxya_32jcKj4yN1_kD7A",
+        "title": "Ratu sang Bos Terakhir Paling Gila yang Akan Menjadi Sumber Tragedi Ingin Berjuang Demi Seluruh Rakyatnya [Takarir Indonesia]",
+        "description": "The Most Heretical Last Boss Queen: From Villainess to Savior\nRatu sang Bos Terakhir Paling Gila yang Akan Menjadi Sumber Tragedi Ingin Berjuang Demi Seluruh Rakyatnya\n悲劇の元凶となる最強外道ラスボスは民のために尽くします\n\nGenres: Drama, Komedi\nTheme: Isekai, Villainess\n\n\"Jika... aku menjadi seorang ratu yang hina, bunuhlah aku.\"\nSaat Tuan Putri Pride Royal Ivy berumur delapan tahun, ia menyadari di kehidupan sebelumnya ia adalah gadis biasa yang terlahir di keluarga biasa di Jepang. Kini ia adalah Ratu sang Bos Terakhir mengerikan dari sebuat gim Otome. Ia bereinkarnasi di dunia gim Otome \"Tuju Sorotan Kirana Denganmu\". Dalam gimnya, Pride menjadi ratu terjahat yang merusak negara dan menyiksa rakyatnya. Saat ia sadar bahwa ia adalah bos terakhir seperti itu, ia pun berusaha untuk menghindari tragedi yang akan ia lakukan dengan mengandalkan ingatannya saat memainkan gim itu. Demi menghindari tragedi yang akan terjadi dan menciptakan dunia di mana semua karakter yang ada bisa hidup bahagia, ia pun berjuang demi negara dan rakyatnya di dalam kisah fantasi tentang tuan putri jahat yang berjuang untuk tidak menjadi bos terakhir.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ozB34EclLPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ozB34EclLPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ozB34EclLPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ozB34EclLPE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ozB34EclLPE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Muse Indonesia",
+        "localized": {
+          "title": "Ratu sang Bos Terakhir Paling Gila yang Akan Menjadi Sumber Tragedi Ingin Berjuang Demi Seluruh Rakyatnya [Takarir Indonesia]",
+          "description": "The Most Heretical Last Boss Queen: From Villainess to Savior\nRatu sang Bos Terakhir Paling Gila yang Akan Menjadi Sumber Tragedi Ingin Berjuang Demi Seluruh Rakyatnya\n悲劇の元凶となる最強外道ラスボスは民のために尽くします\n\nGenres: Drama, Komedi\nTheme: Isekai, Villainess\n\n\"Jika... aku menjadi seorang ratu yang hina, bunuhlah aku.\"\nSaat Tuan Putri Pride Royal Ivy berumur delapan tahun, ia menyadari di kehidupan sebelumnya ia adalah gadis biasa yang terlahir di keluarga biasa di Jepang. Kini ia adalah Ratu sang Bos Terakhir mengerikan dari sebuat gim Otome. Ia bereinkarnasi di dunia gim Otome \"Tuju Sorotan Kirana Denganmu\". Dalam gimnya, Pride menjadi ratu terjahat yang merusak negara dan menyiksa rakyatnya. Saat ia sadar bahwa ia adalah bos terakhir seperti itu, ia pun berusaha untuk menghindari tragedi yang akan ia lakukan dengan mengandalkan ingatannya saat memainkan gim itu. Demi menghindari tragedi yang akan terjadi dan menciptakan dunia di mana semua karakter yang ada bisa hidup bahagia, ia pun berjuang demi negara dan rakyatnya di dalam kisah fantasi tentang tuan putri jahat yang berjuang untuk tidak menjadi bos terakhir."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 3
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "nnxaqEY1qz-HjTHi4lyK6bPTk0w",
+      "id": "PLPanbgyToztZ687huoq_URfiklA9B6pZU",
+      "snippet": {
+        "publishedAt": "2023-06-26T11:58:44Z",
+        "channelId": "UCxxnxya_32jcKj4yN1_kD7A",
+        "title": "Gen AI [Takarir Indonesia]",
+        "description": "Gene of AI\nGen AI\nAIの遺電子\n\nGenres: Drama, Psikologi\nTheme: Sains-Fiksi\n\nIni adalah kisah dari masa depan kita. Kemajuan pesat AI yang dimulai pada abad 21, selain membawa perubahan pada kehidupan, juga mengusik hati nurani kita yang menggunakan mesin dengan kecerdasan sebagai alat. \nKemudian di paruh akhir abad 22. Orang-orang masa kini telah terbiasa untuk menerima dan hidup berdampingan dengan [Humanoid], sebuah [AI Komersil] yang memiliki hak asasinya sendiri. Sudo Hikaru, seorang dokter dari bidang kesehatan baru yang merawat para Humanoid, harus berhadapan dengan [Penyakit Baru] yang diakibatkan oleh koeksistensi manusia dan AI. Walaupun terkadang harus menggunakan sisi lain dari dirinya...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BffwyAxhRoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BffwyAxhRoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BffwyAxhRoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BffwyAxhRoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BffwyAxhRoY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Muse Indonesia",
+        "localized": {
+          "title": "Gen AI [Takarir Indonesia]",
+          "description": "Gene of AI\nGen AI\nAIの遺電子\n\nGenres: Drama, Psikologi\nTheme: Sains-Fiksi\n\nIni adalah kisah dari masa depan kita. Kemajuan pesat AI yang dimulai pada abad 21, selain membawa perubahan pada kehidupan, juga mengusik hati nurani kita yang menggunakan mesin dengan kecerdasan sebagai alat. \nKemudian di paruh akhir abad 22. Orang-orang masa kini telah terbiasa untuk menerima dan hidup berdampingan dengan [Humanoid], sebuah [AI Komersil] yang memiliki hak asasinya sendiri. Sudo Hikaru, seorang dokter dari bidang kesehatan baru yang merawat para Humanoid, harus berhadapan dengan [Penyakit Baru] yang diakibatkan oleh koeksistensi manusia dan AI. Walaupun terkadang harus menggunakan sisi lain dari dirinya..."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 3
+      }
+    }
+  ]
+}
